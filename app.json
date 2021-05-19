@@ -1,7 +1,7 @@
 {
   "name": "VideoCompressBot",
   "description": "Telegram's best Video Compress Bot",
-  "logo": "https://telegra.ph/file/b687febf32e4d583fb1d4.jpg",
+  "logo": "https://telegra.ph/file/1bfa341fae051359be9cb.jpg",
   "keywords": [
     "telegram",
     "best",
@@ -9,9 +9,9 @@
     "compress",
     "bot"
   ],
-  "success_url": "https://t.me/linux_repo",
-  "website": "https://t.me/Discovery_Updates",
-  "repository": "https://github.com/AbirHasan2005/VideoCompress",
+  "success_url": "https://github.com/kingboyss/CompressBot",
+  "website": "https://github.com/kingboyss/CompressBot",
+  "repository": "https://github.com/kingboyss/CompressBot",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable VARs when in ENV mode",
@@ -23,7 +23,7 @@
       "required": true
     },
     "DATABASE_URL": {
-      "description": "Your MongoDB URL for Database. Ask in Support Group: https://t.me/linux_repo",
+      "description": "Your MongoDB URL for Database. Ask in Support Group: @hayper007",
       "value": "",
       "required": true
     },
