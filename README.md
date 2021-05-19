@@ -8,9 +8,7 @@
 	- Can Ban-Unban Manually
 	- Can see numbers users in DB
 
-* If you need more help to Deploy Feel Free to ask in [Support Group](https://t.me/linux_repo).
 
-#
 
 ## Easy Deploy:
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
@@ -19,12 +17,12 @@
 ## Required Configs:
 * `SESSION_NAME` - Any name of session. Better keep default.
 * `TG_BOT_TOKEN` - Get this from [@BotFather](https://t.me/BotFather)
-* `LOG_CHANNEL` - Put Your Bot's Logs Channel's Username. For Help ask in [Support Group](https://t.me/linux_repo).
+* `LOG_CHANNEL` - Put Your Bot's Logs Channel's Username. 
 * `BOT_USERNAME` - Your Bot's Username which you send to [@BotFather](https://t.me/BotFather) while creating Bot. ***(Without `@` Before Username!!)***
 * `APP_ID` - Get this from my.telegram.org
 * `API_HASH` - Get this from my.telegram.org
 * `DATABASE_URL` - Your MongoDB Database URL.
-* `AUTH_USERS` - Put your ID & other Sudo Users IDs. Separate with **Space**. Just for using [Admin Commands](https://github.com/AbirHasan2005/VideoCompress#admin-commands).
+* `AUTH_USERS` - Put your ID & other Sudo Users IDs. Separate with **Space**. Just for using [Admin Commands]).
 
 ## Optional Configs:
 * `UPDATES_CHANNEL` - Put your Channel Username which you want to do Force Sub. But bot should be Admin in that channel. If got any error or not understand anything than ask in [Support Group](https://t.me/linux_repo).
