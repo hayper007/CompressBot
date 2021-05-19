@@ -25,7 +25,7 @@
 * `AUTH_USERS` - Put your ID & other Sudo Users IDs. Separate with **Space**. Just for using [Admin Commands]).
 
 ## Optional Configs:
-* `UPDATES_CHANNEL` - Put your Channel Username which you want to do Force Sub. But bot should be Admin in that channel. If got any error or not understand anything than ask in [Support Group](https://t.me/linux_repo).
+* `UPDATES_CHANNEL` - Put your Channel Username which you want to do Force Sub. But bot should be Admin in that channel. If got any error or not understand anything than ask in .
 * `COMMAND_EXEC` - `/exec` Command Handler.
 * `COMMAND_STATUS` - `/status` Command Handler.
 * `COMMAND_CANCEL` - `/cancel` Command Handler.
